@@ -1,4 +1,4 @@
-# Improved Brew Buddy Coffee Machine Program
+# Brew Buddy Coffee Machine Program
 from art import logo
 import sys
 
